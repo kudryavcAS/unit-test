@@ -1,3 +1,5 @@
+//Алексей Кудрявцев, 6-я группа
+
 #include <QtTest>
 #include "number.h"
 // add necessary includes here
