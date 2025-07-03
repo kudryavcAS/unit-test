@@ -1,4 +1,5 @@
-Данный проект представляет собой проект unit-тестирования класса Number, то есть его 4-х методов (см. SP_1)
+Смотреть в режиме code
+Данный проект представляет собой проект unit-тестирования класса Number, то есть его 4-х методов (см. SP_1_QT)
     void NotLargSumCub(QTextStream& out, int )const;
     void SearchPrimeSumQuad(QTextStream&  out, int, int) const;
     void FirstNoNullFactRight(QTextStream& out, int) const;
